@@ -1340,7 +1340,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:117px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1359,9 +1359,9 @@
 #u178 {
   border-width:0px;
   position:absolute;
-  left:330px;
+  left:300px;
   top:147px;
-  width:42px;
+  width:117px;
   height:17px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
@@ -1380,7 +1380,7 @@
 }
 #u178_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u179_div {
